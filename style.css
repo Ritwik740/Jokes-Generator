@@ -1,0 +1,20 @@
+*{
+    background-color: blue;
+    color: aliceblue;
+}
+button{
+    background-color: yellow;
+    color: black;
+    border-radius:5px;
+    font-size: 22px;
+   
+}
+div {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    border: 5px solid beige;
+    min-width: 300px;
+    font-size: 22px;
+  }
+  
